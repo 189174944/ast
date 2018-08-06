@@ -2,6 +2,7 @@
   "name": "astcompany/apiexception",
   "type": "library",
   "description": "a libray for encapsulate api exception!",
+  "license": "MIT",
   "authors": [
     {
       "name": "wangpengyu",

@@ -1,11 +1,11 @@
 {
-    "name": "fed/dialogs",
-    "type": "ewma-module",
-    "description": "ewma dialogs",
+    "name": "Akt/ApiException",
+    "type": "library",
+    "description": "a libray for encapsulate api exception!",
     "authors": [
         {
-            "name": "fed",
-            "email": "ewmafw@gmail.com"
+            "name": "wangpengyu",
+            "email": "189174944@qq.com"
         }
     ],
     "minimum-stability": "stable",

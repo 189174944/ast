@@ -1,5 +1,5 @@
 {
-    "name": "Akt/ApiException",
+    "name": "akt/apiException",
     "type": "library",
     "description": "a libray for encapsulate api exception!",
     "authors": [

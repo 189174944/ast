@@ -1,20 +1,20 @@
 {
-    "name": "astcompany/apiexception",
-    "type": "library",
-    "description": "a libray for encapsulate api exception!",
-    "authors": [
-        {
-            "name": "wangpengyu",
-            "email": "189174944@qq.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {
-        "monolog/monolog": "^1.23"
-    },
-    "autoload": {
-        "psr-4": {
-            "Ast\\":"src/"
-        }
+  "name": "astcompany/apiexception",
+  "type": "library",
+  "description": "a libray for encapsulate api exception!",
+  "authors": [
+    {
+      "name": "wangpengyu",
+      "email": "189174944@qq.com"
     }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "monolog/monolog": "^1.23"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ast\\": "src/"
+    }
+  }
 }

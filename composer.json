@@ -1,5 +1,5 @@
 {
-    "name": "ast/apiexception",
+    "name": "astcompany/apiexception",
     "type": "library",
     "description": "a libray for encapsulate api exception!",
     "authors": [

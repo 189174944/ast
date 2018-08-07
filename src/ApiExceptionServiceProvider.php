@@ -17,7 +17,5 @@ class ApiExceptionServiceProvider extends ServiceProvider
     {
 
 
-
-
     }
 }

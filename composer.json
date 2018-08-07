@@ -9,11 +9,11 @@
       "email": "189174944@qq.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {
+    "monolog/monolog": "^1.23"
   },
   "require-dev": {
-    "monolog/monolog": "^1.23"
   },
   "autoload": {
     "psr-4": {

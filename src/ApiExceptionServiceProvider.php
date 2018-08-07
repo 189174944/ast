@@ -13,6 +13,7 @@ class ApiExceptionServiceProvider extends ServiceProvider
 
 
         $this->publishes([
+
             __DIR__.'/config/apiexception.php' => config_path('apiexception.php')
         ]);
     }

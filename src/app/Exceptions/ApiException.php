@@ -9,6 +9,7 @@ class ApiException extends Exception
 {
     protected $message;
     protected $code;
+
     /**
      * 按接口的重要程度将返回码分为8个等级
      * 10000-19999 表示紧急状况 比如系统挂掉(系统记录)
